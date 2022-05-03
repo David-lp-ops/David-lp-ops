@@ -40,3 +40,11 @@
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=David-lp-ops&theme=github"/>
 </div>
+
+## Contact With Me 💼
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pablo-david-huamani-103271235/"><img src="https://img.shields.io/badge/-David%20Huamani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pablodavidhuamani@gmail.com"><img src="https://img.shields.io/badge/-pablodavidhuamani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/david.huamani.56"><img src="https://img.shields.io/badge/-@David Huamani-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
