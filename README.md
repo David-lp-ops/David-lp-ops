@@ -1,5 +1,7 @@
 # Hi, I'm Pablo David Huamani Injante 👋
-
+<div align="center"> 
+    <image src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
+</div>
 <!--
 **David-lp-ops/David-lp-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
