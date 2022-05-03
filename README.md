@@ -26,11 +26,13 @@
 <p align="center">
 <a href="https://github.com/David-lp-ops">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-lp-ops&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=David-lp-ops"/>
+  
 </a>
 </p>
 
-
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=David-lp-ops&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/David-lp-ops/David-lp-ops/assets/github-contribution-grid-snake.svg" />
 </div>
