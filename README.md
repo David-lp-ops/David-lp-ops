@@ -21,6 +21,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-lp-ops&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
 ## Github Analytics ⚙️
 <p align="center">
 <a href="https://github.com/David-lp-ops">
@@ -29,3 +30,13 @@
 </a>
 </p>
 
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=David-lp-ops"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/David-lp-ops/David-lp-ops/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=David-lp-ops&theme=github"/>
+</div>
