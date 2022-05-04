@@ -4,6 +4,8 @@
 </div>
 
 ## Tech Stack 🛠️
+<div align="center">
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
@@ -16,12 +18,13 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular&logoColor=ff9100)&nbsp;
 
+</div>
 
 
 ## Github Analytics ⚙️
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=David-lp-ops&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
+
 <p align="center">
 <a href="https://github.com/David-lp-ops">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-lp-ops&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
